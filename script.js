@@ -7,12 +7,12 @@ let blogs = JSON.parse(localStorage.getItem("blogs")) || [
   {
     title: "Pasta Alfredo",
     content: "Creamy Italian pasta with garlic, cream and parmesan.",
-    image: "https://images.unsplash.com/photo-1603133872878-684f2a038a4a"
+    image:  "img/pasta_alfredo.jpeg"
   },
   {
     title: "Masala Chai",
     content: "Traditional Indian tea with spices. Best enjoyed with biscuits.",
-    image: "https://images.unsplash.com/photo-1618411577541-d935d6f14b9e"
+    image: "img/chai.jpeg"
   }
 ];
 
