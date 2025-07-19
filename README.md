@@ -17,8 +17,9 @@ Admin Dashboard & Recipe Management Website
 - ![Editing Recipe](screenshots/ss-editing.png)
 - ![Home Page](screenshots/ss-home.png)
 
-# Run locally in browser —
- Open index.html with Live Server.
+## Live Demo  
+🌐 [View Live](https://sneha20056.github.io/TastyTales-Recipe-Blog/)
+
 
 ## Author
 Sneha Aggarwal
