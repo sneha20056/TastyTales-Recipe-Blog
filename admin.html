@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Admin | TastyTales</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Admin Dashboard</h1>
+    <nav><a href="index.html">Back to Home</a></nav>
+  </header>
+
+  <main>
+    <form id="blogForm">
+      <input type="hidden" id="editIndex">
+      <input type="text" id="title" placeholder="Recipe Title" required />
+      <textarea id="content" placeholder="Recipe Steps or Description" required></textarea>
+      <input type="url" id="image" placeholder="Image URL (paste Unsplash link)" required/>
+      <button type="submit">Save Recipe</button>
+    </form>
+
+    <h2>All Recipes</h2>
+    <ul id="adminList" class="admin-list"></ul>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
