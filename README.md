@@ -17,8 +17,8 @@ Admin Dashboard & Recipe Management Website
 - ![Editing Recipe](screenshots/ss-editing.png)
 - ![Home Page](screenshots/ss-home.png)
 
-## Live Demo
-Currently no live link. Clone & open `index.html` in browser.
+# Run locally in browser —
+ Open index.html with Live Server.
 
 ## Author
 Sneha Aggarwal
